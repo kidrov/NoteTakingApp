@@ -1,0 +1,29 @@
+{
+  "notes": [
+    {
+      "title": "Red",
+      "text": "Love and Passion",
+      "id": 1
+    },
+    {
+      "title": "Blue",
+      "text": "Tranquility and calmness\nTrust and reliability\nWisdom and depth",
+      "id": 2
+    },
+    {
+      "title": "Green",
+      "text": "Nature and growth\nHarmony and balance\nRenewal and fertility",
+      "id": 3
+    },
+    {
+      "title": "Yellow",
+      "text": "Happiness and joy",
+      "id": 4
+    },
+    {
+      "title": "Purple",
+      "text": "Royalty and luxury\nSpirituality and mysticism\nCreativity and imagination",
+      "id": 5
+    }
+  ]
+}
